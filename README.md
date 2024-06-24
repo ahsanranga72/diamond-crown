@@ -1,8 +1,19 @@
-# React + Vite
+# README #
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple node js application mergin with express js for testing purpose
 
-Currently, two official plugins are available:
+### What is this repository for? ###
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* This project is to learn and develope my skills on devOps and CI/CD pipeline
+* Version
+* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+
+### How do I get set up? ###
+
+* run the following command 'npm install node'
+* for the express js, run 'npm install express'
+* for the ejs view engine, run 'npm install ejs'
+* to , run 'npm install express'
+
+* Deployment instructions
+
